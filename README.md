@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, My name is Kelvin<br>I'm a developer from Indonesia<br>Few things about me:<br>🧬Pronouns: he/him<br>💻 I’m currently working as Full-stack Developer<br>🌱 I’m currently exploring the world of mobile development<br>⚡ Fun fact: I like going to cosplay event
+Hi 👋, My name is Kelvin<br>I'm a developer from Indonesia and welcome to my workspace!<br>Few things about me:<br>🧬Pronouns: he/him<br>💻 I’m currently working as Full-stack Developer<br>🌱 I’m currently exploring the world of mobile development<br>⚡ Fun fact: I like going to cosplay event
 
 
 ## 🌐 Socials:
