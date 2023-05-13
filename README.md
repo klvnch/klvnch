@@ -13,7 +13,7 @@ Hi 👋, My name is Kelvin<br>I'm a developer from Indonesia and welcome to my w
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=klvnch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 Some Dono Links:
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/cassiezz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/cassiezz) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cassiezz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cassiezz) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
